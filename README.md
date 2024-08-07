@@ -10,6 +10,13 @@ This project focuses on analyzing pizza sales data using a Power BI dashboard, o
 - **Best/Worst Sellers**: Highlights the top and bottom pizzas by revenue, quantity sold, and total orders.
 - **Sales Trends**: Shows daily and monthly trends for total orders, helping to identify peak sales periods.
 - **Category & Size Analysis**: Provides a breakdown of sales by pizza category and size, illustrating which categories and sizes contribute most to revenue.
+  
+
+  ![image](https://github.com/user-attachments/assets/68871c63-399d-4956-a23a-3ff78e055741)
+
+
+  ![image](https://github.com/user-attachments/assets/829333d2-8d0b-427f-967f-52b82c838aec)
+
 
 ## Technologies Used
 
